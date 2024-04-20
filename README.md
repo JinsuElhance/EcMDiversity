@@ -4,7 +4,7 @@ Saved versions of each final visualization are in the `figures` directory.
 # Getting Started
 This project was built in a Python environment and all analysis was done in Ipython Notebooks. In order to ensure environment compatibility with this project you'll need to do the following:
 
-Open a terminal and run these commands.
+Open a terminal from the repository and run these commands.
 #### Install IPython Kernel
 `pip install ipykernel`
 
