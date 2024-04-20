@@ -16,7 +16,7 @@ Creating a virtual environment ensures that you are running these notebooks in a
 `> .env/Scripts/Activate`
 
 #### Install required python packages
-`> pip install -r requirements.txt`
+`> python -m pip install -r requirements.txt`
 
 #### Run Jupyter
 This should automatically open your browser to a locally hosted Jupyter interface. 
