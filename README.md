@@ -13,7 +13,7 @@ Creating a virtual environment ensures that you are running these notebooks in a
 `> python -m venv .env`
 
 #### Activate the virtual environment
-`> .env/Scripts/activate`
+`> .env/Scripts/Activate`
 
 #### Install required python packages
 `> pip install -r requirements.txt`
